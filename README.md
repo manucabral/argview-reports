@@ -1,8 +1,10 @@
 # ARGView Reports
-Environmental issues reports from Argentina [datos.gob.ar]
+Environmental issues reports from Argentina
 
-# Data source
-All data comes from the Ministry of Defense and the National Meteorological Service of Argentina, you can get this [here](https://datos.gob.ar/dataset?organization=ambiente) available from [datos.gob.ar](https://datos.gob.ar/).
+# Source
+All data comes from the [Ministry of Defense](https://www.argentina.gob.ar/defensa) and the [National Meteorological Service of Argentina](https://www.smn.gob.ar/) from [datos.gob.ar](https://datos.gob.ar/)
 
-- **forecast** [source](https://datos.gob.ar/dataset/smn-pronostico-tiempo-5-dias)
-- **fires** [source](https://datos.gob.ar/dataset/ambiente-incendios-forestales)
+- **WILDFIRES** [source](https://datos.gob.ar/dataset/ambiente-incendios-forestales)
+- **FORECAST** [source](https://datos.gob.ar/dataset/smn-pronostico-tiempo-5-dias)
+- **WEATHER STATIONS** [source](https://datos.gob.ar/dataset/smn-listado-estaciones-meteorologicas-smn)
+
