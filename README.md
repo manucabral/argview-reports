@@ -1,6 +1,8 @@
+## DEPRECATED
+SMN stopped providing future forecast data for download, please check [py-smn](https://github.com/manucabral/py-smn) project.
+
 # ARGview reports
 Environmental issues reports from Argentina
-> It's under development, new version coming soon.
 
 ## Projects associated
 - [ARGview Data Visualization](https://github.com/GabrielCarames/argview-data-visualization)
